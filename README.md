@@ -6,4 +6,9 @@
 
 -Alie Husaini R. 05111840000097
 
-##### 1.Membuat domain dengan mengisikan konfigurasi untuk semerud02.pw di MALANG
+##### 1. Membuat domain dengan mengisikan konfigurasi untuk semerud02.pw di MALANG
+![alt img1](image/1.png)
+
+##### 2. Membuat alias
+##### 3. Membuat subdomain
+![alt img1](image/2.png)
