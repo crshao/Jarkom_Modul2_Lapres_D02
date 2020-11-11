@@ -9,8 +9,7 @@
 ##### 1. Membuat domain dengan mengisikan konfigurasi untuk semerud02.pw di MALANG
 ![alt img1](image/1.png)
 
-##### 2. Membuat alias
-##### 3. Membuat subdomain
+##### 2 & 3. Membuat alias dan subdomain
 ![alt img2](image/2.PNG)
 
 ##### 4. Membuat reverse domain
@@ -20,7 +19,8 @@
 ![alt img5](image/5.PNG)
 
 ##### 6. Membuat subdomain di delagasikan ke MOJOKERTO dan mengarah ke PROBOLINGGO
-![alt img6](image/6.PNG)
+![alt img6](image/6a.PNG)
+![alt img6](image/6b.PNG)
 
 ##### 7. Membuat subdomain naik.gunung.semerud02.pw
 ![alt img7](image/7.PNG)
