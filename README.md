@@ -44,4 +44,12 @@
 ##### 11. Mengatur directory listing
 ![alt img11](image/11.PNG)
 
+##### 12. Merubah halaman 404 dengan 404.html
+![alt img12](image/12.PNG)
 
+##### 13. Mengubah inisial folder javascript
+![alt img13](image/13.PNG)
+
+##### 14. Membuat naik.gunung.semerud02.pw di port 8888
+![alt img14(image/14a.PNG)
+![alt img14(image/14b.PNG)
