@@ -34,4 +34,5 @@
 ##### 8. Mengatur webserver untuk domain semerud02.pw
 ![alt img8](image/8.png)
 
+##### 9. Aktifkan mod rewrite agar urlnya menjadi http://semeruyyy.pw/home
 
