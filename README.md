@@ -34,5 +34,14 @@
 ##### 8. Mengatur webserver untuk domain semerud02.pw
 ![alt img8](image/8.png)
 
-##### 9. Aktifkan mod rewrite agar urlnya menjadi http://semeruyyy.pw/home
+##### 9. Aktifkan mod rewrite agar urlnya menjadi 'http://semerud02.pw/home'
+![alt img9](image/9a.PNG)
+![alt img9(image/9b.PNG)
+
+##### 10. Mengatur DocumentRoot untuk menyimpan file asset pada penanjakan.semerud02.pw
+![alt img10](image/10.PNG)
+
+##### 11. Mengatur directory listing
+![alt img11](image/11.PNG)
+
 
