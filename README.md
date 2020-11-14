@@ -53,3 +53,11 @@
 ##### 14. Membuat naik.gunung.semerud02.pw di port 8888
 ![alt img14](image/14a.PNG)
 ![alt img14](image/14b.PNG)
+
+##### 15. Membuat autentikasi pada naik.gunung.semerud02.pw
+![alt img15a](image/15a.PNG)
+![alt img15b](image/15b.PNG)
+![alt img15c](image/15c.PNG)
+
+##### 16. Mengarahkan IP PROBOLINGGO ke semerud02.pw
+![alt img16](image/16.PNG)
