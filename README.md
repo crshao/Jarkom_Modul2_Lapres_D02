@@ -60,4 +60,7 @@
 ![alt img15c](image/15c.PNG)
 
 ##### 16. Mengarahkan IP PROBOLINGGO ke semerud02.pw
-![alt img16](image/16.PNG)
+![alt img16](image/16a.PNG)
+![alt img16](image/16b.PNG)
+
+##### 17. Mengubah path semua parameter yang mengandung "semeru" ke semeru.jpg
